@@ -4,7 +4,11 @@
 
 ## Demo 🎥
 
-[🔗 Project Demo](https://github.com/user-attachments/assets/5450e38d-19b1-4880-96cc-45a8cb861f01)
+[🔗 Project Demo](https://github.com/user-attachments/assets/29f5395e-9d4f-4ef8-94e3-bdb252973d62)
+
+
+
+
 
 ---
 
